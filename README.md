@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm studying Japanese language as a hobby.
 <!--
 **Jlon718/Jlon718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
